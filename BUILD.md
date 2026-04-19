@@ -9,8 +9,8 @@
 ## 1) Clone
 
 ```bash
-git clone <PUBLIC_REPO_URL>
-cd <PUBLIC_REPO_FOLDER>
+git clone https://github.com/c-b-g-m/gtm-ai-fluency-kit.git
+cd gtm-ai-fluency-kit
 ```
 
 ## 2) Generate Starter Assets

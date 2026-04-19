@@ -36,7 +36,7 @@ Add:
 
 1. Re-run quickstart from `START-HERE.md`.
 2. Compare with `examples/`.
-3. Open an issue with:
+3. Open an issue at https://github.com/c-b-g-m/gtm-ai-fluency-kit/issues with:
    - your command
    - error text
    - expected output

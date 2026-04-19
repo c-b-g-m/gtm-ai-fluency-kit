@@ -28,7 +28,7 @@ Contributions that improve the framework's accuracy, accessibility, or usefulnes
 
 ## Opening Issues
 
-Use GitHub Issues to:
+Use GitHub Issues at https://github.com/c-b-g-m/gtm-ai-fluency-kit/issues to:
 - Report broken generator behavior (include your command and error text)
 - Suggest new function tracks
 - Flag gaps in documentation or examples
