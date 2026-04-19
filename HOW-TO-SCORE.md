@@ -24,7 +24,7 @@ Artifacts that count:
 - A prompt library or saved prompt templates
 - A before/after output sample with your edits marked
 - A decision log (what you kept, changed, or discarded and why)
-- A diligence statement or review checklist in active use
+- A diligence statement or review checklist in active use (see `examples/diligence-statement-examples.md`)
 - A workflow map, automation, or process doc you reference regularly
 
 Artifacts that don't count:

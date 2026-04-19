@@ -45,7 +45,7 @@ Evidence prompt:
 3. Who is accountable for final outputs and decisions?
 
 Evidence prompt:
-- Provide a short diligence statement for one recent AI-assisted task.
+- Provide a short diligence statement for one recent AI-assisted task. (See `examples/diligence-statement-examples.md` for reference.)
 
 ## Scoring Summary
 
