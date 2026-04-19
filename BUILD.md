@@ -1,5 +1,11 @@
 # Build and Run Instructions
 
+## Prerequisites
+
+- Git
+- Python 3.10 or newer (`python3 --version` to check)
+- A shell terminal (macOS/Linux terminal, Windows PowerShell or Git Bash)
+
 ## 1) Clone
 
 ```bash
