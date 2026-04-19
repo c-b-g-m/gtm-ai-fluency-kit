@@ -1,19 +1,30 @@
 # GTM AI Fluency Kit
 
-This repository helps GTM teams run an AI fluency baseline assessment and generate role-specific learning plans for sales, marketing, and customer success functions.
+Most GTM professionals are using AI reactively — one-off prompts, first-pass outputs, no quality criteria. They know it isn't enough. They don't have a clear picture of what "good" looks like for their specific role, or a structured path to get there.
+
+This kit gives them both.
+
+It's a free, role-specific AI fluency framework for Marketing, Sales and RevOps, and Support and Customer Success teams. You assess where you are, then build a 30/60/90-day plan grounded in your actual job — not generic "use AI more" advice.
 
 ## Who This Is For
 
-- Individuals who want to improve AI fluency in practical work
-- Team leads who want a lightweight shared baseline
+- Individual contributors who want to improve how they use AI in their day-to-day work
+- Team leads who want a shared baseline and common language across their team
 - Facilitators running internal AI fluency sessions
 
 ## What You Get
 
-- Assessment templates and rubric
+- A 4-dimension assessment rubric (Delegation, Description, Discernment, Diligence)
+- Calibrated scoring examples so you know what each level actually looks like in your role
 - Function-specific 30/60/90 learning-plan templates
-- Lightweight scaffold generator
+- A scaffold generator that personalizes your assessment and plan to your job description
 - Worked examples for three function tracks
+
+## Two Paths
+
+**No terminal required:** Copy the templates, score yourself against the rubric, and fill in your plan manually. See `QUICKSTART-MANUAL.md`.
+
+**Faster with the generator:** Run one Python command and get pre-filled starter files based on your role and JD. See `BUILD.md`.
 
 ## Function Tracks (V1)
 
@@ -33,17 +44,10 @@ It is not a verbatim reproduction of either source.
 
 Includes:
 - Reusable templates and starter scripts
-- Public-safe examples
-- Facilitator-lite guidance
+- Calibrated scoring examples by role and dimension
+- Facilitator-lite guidance for team sessions
 
 Does not include:
 - Internal consulting playbooks
 - Client-specific materials
 - Advanced enterprise automation tooling
-
-## Quickstart
-
-1. Read `START-HERE.md`.
-2. Review tool requirements in `TOOLS.md`.
-3. Run setup and generation steps in `BUILD.md`.
-4. Share outputs with your team using `FACILITATOR-LITE.md`.

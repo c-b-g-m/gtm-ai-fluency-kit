@@ -1,24 +1,27 @@
-# Start Here (10-Minute Path)
+# Start Here
 
-## Step 1 - Pick Your Track
+## Pick Your Path
 
-Choose one:
-- Marketing
-- Sales and RevOps
-- Support and Customer Success
+**No terminal, no Python:**
+Go to `QUICKSTART-MANUAL.md`. Copy the templates, score yourself against the rubric, and fill in your plan. About 20–30 minutes.
 
-## Step 2 - Run The Starter Generator
+**Faster with a script:**
+Go to `BUILD.md`. Run one Python command with your role details and get pre-filled starter files. About 5 minutes of setup.
 
-Follow `BUILD.md` and generate your first draft files.
+Either path produces the same outputs: a scored baseline assessment and a 30/60/90 learning plan tied to your actual job.
 
-## Step 3 - Complete Baseline Assessment
+---
 
-Use generated `assessment-starter.md` and score your baseline.
+## The Workflow (Both Paths)
 
-## Step 4 - Start Your 30-Day Plan
+1. **Pick your function track** — Marketing, Sales and RevOps, or Support and Customer Success
+2. **Complete a baseline assessment** — Score yourself across 4 dimensions using the rubric and calibrated examples
+3. **Identify your gaps** — Your lowest two scores are your 30-day focus
+4. **Build your 30/60/90 plan** — Concrete milestones tied to your JD and a real workflow you own
+5. **Share with your team** (optional) — Use `FACILITATOR-LITE.md` to run a 30-minute group session
 
-Use generated `learning-plan-starter.md` and one reference plan.
+---
 
-## Step 5 - Share Internally
+## Not sure how to score yourself?
 
-Use `FACILITATOR-LITE.md` to run a short team session.
+Read `HOW-TO-SCORE.md` before filling in your assessment. It covers the evidence rule, common overestimates by dimension, and what to do when you're between levels.
