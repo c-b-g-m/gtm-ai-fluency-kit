@@ -25,3 +25,10 @@ Either path produces the same outputs: a scored baseline assessment and a 30/60/
 ## Not sure how to score yourself?
 
 Read `HOW-TO-SCORE.md` before filling in your assessment. It covers the evidence rule, common overestimates by dimension, and what to do when you're between levels.
+
+---
+
+## Leading a team session?
+
+Read `FRAMEWORK-OVERVIEW.md` first — it's a 5-minute explainer you can send as pre-read.
+Then use `FACILITATOR-LITE.md` to run a 30-minute session with talking points for each segment.
