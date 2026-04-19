@@ -20,6 +20,8 @@ Choose the one that matches your role:
 
 Open `templates/assessment-template.md` and copy it to wherever you work — Google Docs, Notion, Confluence, a plain text file, anything.
 
+**If pasting into Google Docs:** use Edit → Paste without formatting (Cmd+Shift+V / Ctrl+Shift+V), then reapply heading styles manually. Notion and Confluence handle markdown paste natively.
+
 Fill in the **Participant Context** section at the top:
 - Your role and function
 - A one-paragraph summary of your job responsibilities

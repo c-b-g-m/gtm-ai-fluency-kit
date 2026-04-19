@@ -16,7 +16,7 @@ python3 tools/generator.py \
   --jd-summary "Own campaign briefing, copy review, and cross-functional launch coordination" \
   --jd-metrics "Campaign launch cycle time, message quality score, conversion lift" \
   --jd-scope "Owns campaign brief and review process; partners with design and analytics" \
-  --outcome "Improve campaign iteration quality and speed" \
+  --outcome "Reduce campaign brief cycle time from 5 days to 3 days within 60 days" \
   --output-dir generated/jane-doe
 ```
 
