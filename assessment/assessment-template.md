@@ -47,23 +47,12 @@ Evidence prompt:
 Evidence prompt:
 - Provide a short diligence statement for one recent AI-assisted task.
 
-## Section E: Progression Slope
-
-1. What was your AI workflow like 6 months ago?
-2. What is different now?
-3. What did you stop doing?
-4. What systems or habits have become repeatable?
-
-Evidence prompt:
-- Provide one timeline with at least 3 milestones.
-
 ## Scoring Summary
 
 - Delegation (1-4):
 - Description (1-4):
 - Discernment (1-4):
 - Diligence (1-4):
-- Slope (1-4):
 
 ## Calibration Anchors (Use Before Final Scoring)
 
@@ -80,7 +69,6 @@ If evidence is weak or missing, lower score by one level.
 - Description confidence (Low/Medium/High):
 - Discernment confidence (Low/Medium/High):
 - Diligence confidence (Low/Medium/High):
-- Slope confidence (Low/Medium/High):
 
 ## Recommendations
 
