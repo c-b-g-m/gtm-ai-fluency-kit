@@ -80,12 +80,11 @@ Target business outcome: {outcome}
 - The plan must align to the stated scope boundaries.
 - The plan must improve at least one listed success metric.
 
-## Baseline Self-Rating (1-4)
+## Baseline Self-Rating (1-3)
 - Delegation:
 - Description:
 - Discernment:
 - Diligence:
-- Slope:
 
 ## Evidence To Gather This Month
 - Annotated chat logs:

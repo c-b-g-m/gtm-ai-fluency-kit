@@ -1,6 +1,6 @@
 # How to Score Your Assessment
 
-The 4D rubric uses a 1–4 scale per dimension. This guide walks through common questions and failure modes so your score reflects reality, not aspiration.
+The 4D rubric uses a 1–3 scale per dimension. This guide walks through common questions and failure modes so your score reflects reality, not aspiration.
 
 ---
 
@@ -16,9 +16,9 @@ The 4D rubric uses a 1–4 scale per dimension. This guide walks through common 
 
 ## The Evidence Rule
 
-**If you can't point to a concrete artifact, don't score 3 or 4.**
+**If you can't point to a concrete artifact, don't score 3.**
 
-A score of 3 (Capable) means you have a repeatable, documented workflow you can demonstrate. A score of 4 (Adoptive) means you've built something durable and shared it with others.
+A score of 3 (Capable) means you have a repeatable, documented workflow you can demonstrate.
 
 Artifacts that count:
 - A prompt library or saved prompt templates

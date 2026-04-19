@@ -1,17 +1,13 @@
 # AI Fluency 101 Assessment Rubric (V1)
 
-This rubric combines:
-- 4D competency model (Delegation, Description, Discernment, Diligence)
-- Progression slope signal (how capability has evolved over time)
-- Role-calibrated expectations by function
+This rubric defines the 4D competency model with role-calibrated expectations by function.
 
 ## Scoring Model
 
-- Scale: 1 to 4 per domain
+- Scale: 1 to 3 per domain
   - 1 = Emerging
   - 2 = Developing
   - 3 = Capable
-  - 4 = Adoptive
 - Evidence requirement: score only when at least one observable artifact supports claim.
 
 ## Domain Criteria
@@ -30,10 +26,6 @@ This rubric combines:
 - Uses repeatable delegation patterns for core workflows.
 - Defines goals, constraints, and tradeoffs before execution.
 
-### 4 (Adoptive)
-- Designs durable multi-step workflows and updates them based on outcomes.
-- Influences team-level delegation standards.
-
 ## Description
 
 ### 1 (Emerging)
@@ -47,10 +39,6 @@ This rubric combines:
 ### 3 (Capable)
 - Builds strong context and iterates intentionally.
 - Maintains reusable prompt structures for recurring work.
-
-### 4 (Adoptive)
-- Creates and shares high-performing prompt/workflow patterns across team.
-- Designs prompt structures for reliability and scale.
 
 ## Discernment
 
@@ -66,10 +54,6 @@ This rubric combines:
 - Applies explicit standards and catches non-obvious issues.
 - Documents decisions on what was kept, edited, or discarded.
 
-### 4 (Adoptive)
-- Embeds quality checks into recurring workflows.
-- Teaches others to evaluate outputs consistently.
-
 ## Diligence
 
 ### 1 (Emerging)
@@ -84,18 +68,6 @@ This rubric combines:
 - Consistently documents AI assistance and review responsibility.
 - Applies policy, privacy, and verification checks by default.
 
-### 4 (Adoptive)
-- Designs governance and risk controls into team workflows.
-- Defines and reinforces accountability norms for others.
-
-## Slope Signal (Momentum Over Time)
-
-Score separately (1 to 4):
-- 1 = flat usage over time
-- 2 = occasional improvements, limited experimentation
-- 3 = clear growth arc with changed workflows
-- 4 = sustained experimentation and compounding improvements
-
 ## Required Evidence Artifacts
 
 Use at least 3 of the following:
@@ -108,7 +80,7 @@ Use at least 3 of the following:
 ## Output Format
 
 Assessment results should include:
-1. Domain scores and slope score
+1. Domain scores
 2. Evidence used
 3. Top 3 strengths
 4. Top 3 gaps

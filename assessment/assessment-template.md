@@ -49,18 +49,16 @@ Evidence prompt:
 
 ## Scoring Summary
 
-- Delegation (1-4):
-- Description (1-4):
-- Discernment (1-4):
-- Diligence (1-4):
+- Delegation (1-3):
+- Description (1-3):
+- Discernment (1-3):
+- Diligence (1-3):
 
 ## Calibration Anchors (Use Before Final Scoring)
 
 - **1 (Emerging)**: mostly one-off usage, weak evidence, limited quality controls.
 - **2 (Developing)**: some repeatability, partial criteria, inconsistent diligence.
 - **3 (Capable)**: repeatable workflows, explicit quality criteria, accountable review habits.
-- **4 (Adoptive)**: durable systems, shared patterns, embedded governance checks.
-
 If evidence is weak or missing, lower score by one level.
 
 ## Confidence Check Per Domain
@@ -95,8 +93,7 @@ If evidence is weak or missing, lower score by one level.
 
 - If any domain is **1**: prioritize foundational repeatability and basic evidence capture.
 - If any domain is **2**: prioritize quality criteria and structured review behaviors.
-- If most domains are **3**: prioritize team reuse and lightweight systemization.
-- If any domain is **4**: prioritize coaching others and governance refinement.
+- If most domains are **3**: you're operating capably — focus on consistency and sharing what's working with your team.
 
 ## Non-Generic Output Check (Required Before Finalizing)
 

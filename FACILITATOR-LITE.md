@@ -18,7 +18,7 @@ Use this guide to run a simple 30-minute internal AI Fluency 101 session.
 
 ## During Session
 
-- Poll attendees on baseline confidence (1-4)
+- Poll attendees on baseline confidence (1-3)
 - Have each attendee define one 30-day outcome
 - Pair attendees to review each other's first draft plan
 

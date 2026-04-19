@@ -41,11 +41,10 @@ Open `assessment/rubric.md`. Read the criteria for each of the four dimensions:
 - **Discernment** — how you evaluate and quality-check what AI produces
 - **Diligence** — how you handle disclosure, privacy, and accountability
 
-For each dimension, pick a score from 1 to 4:
+For each dimension, pick a score from 1 to 3:
 - **1 (Emerging):** mostly reactive, one-off use, no repeatable process
 - **2 (Developing):** some patterns forming, inconsistent quality checks
 - **3 (Capable):** repeatable workflows, explicit quality criteria, accountable habits
-- **4 (Adoptive):** durable systems, shared with others, embedded governance
 
 **Not sure where you land?** Open `assessment/calibrated-scoring-examples.md` and find your function track. Read the examples at each level. Pick the one that honestly matches what you can demonstrate — not what you aspire to.
 
