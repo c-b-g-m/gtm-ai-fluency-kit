@@ -45,7 +45,9 @@ Evidence prompt:
 3. Who is accountable for final outputs and decisions?
 
 Evidence prompt:
-- Provide a short diligence statement for one recent AI-assisted task. (See `examples/diligence-statement-examples.md` for reference.)
+- Provide a short diligence statement for one recent AI-assisted task.
+
+**What is a diligence statement?** 3–5 sentences that describe: what AI was used for, what data went into the prompt, who reviewed the output before it was used or shared, and what you'd do differently next time. Before writing yours, read `examples/diligence-statement-examples.md` — it has one example per function track plus a "weak vs. strong" contrast so you can see the difference.
 
 ## Scoring Summary
 
@@ -95,10 +97,6 @@ If evidence is weak or missing, lower score by one level.
 - If any domain is **2**: prioritize quality criteria and structured review behaviors.
 - If most domains are **3**: you're operating capably — focus on consistency and sharing what's working with your team.
 
-## Non-Generic Output Check (Required Before Finalizing)
+## Next Step
 
-- The plan names one concrete workflow (not generic "use AI better").
-- The plan names one measurable business signal.
-- The plan names one accountability owner for output review.
-- The plan includes at least one evidence artifact per week.
-- The plan explicitly maps to JD scope and listed role success metrics.
+Once your Priority Gaps and 30-Day Action Starter are complete, carry them into `templates/learning-plan-template.md` to build your full 30/60/90 plan. The non-generic check runs at the end of the learning plan — that's where you verify the whole plan holds together.

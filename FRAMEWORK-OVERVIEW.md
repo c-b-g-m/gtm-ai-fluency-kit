@@ -82,4 +82,4 @@ Each dimension is scored 1–3:
 
 ## Next Step
 
-Use `QUICKSTART-MANUAL.md` to complete your baseline assessment and build a 30/60/90 plan. Takes about 20–30 minutes. Start with one function track and one workflow you actually own.
+Use `QUICKSTART-MANUAL.md` to complete your baseline assessment and build a 30/60/90 plan. Takes about 30–45 minutes for a first pass (20–30 min for the assessment, 15 min for the learning plan). Start with one function track and one workflow you actually own.

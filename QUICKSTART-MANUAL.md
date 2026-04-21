@@ -2,7 +2,7 @@
 
 Use this path if you don't want to run Python scripts. Everything here works with copy/paste and any text or document editor.
 
-**Time:** About 20–30 minutes for your first pass.
+**Time:** About 30–45 minutes for your first pass — 20–30 min for the assessment, 15 min for the learning plan.
 
 ---
 
@@ -39,7 +39,7 @@ Open `assessment/rubric.md`. Read the criteria for each of the four dimensions:
 - **Delegation** — how you decide what to give to AI and what to keep human
 - **Description** — how you write prompts and iterate on outputs
 - **Discernment** — how you evaluate and quality-check what AI produces
-- **Diligence** — how you handle disclosure, privacy, and accountability
+- **Diligence** — how you handle disclosure, privacy, and accountability *(the evidence for this dimension is a short "diligence statement" — read `examples/diligence-statement-examples.md` before scoring yourself here)*
 
 For each dimension, pick a score from 1 to 3:
 - **1 (Emerging):** mostly reactive, one-off use, no repeatable process
@@ -77,14 +77,11 @@ Use `learning-plans/[your-function]-30-60-90.md` as a reference for what realist
 
 ## Step 6 — Run the non-generic check
 
-Before you call it done, answer these four questions:
+Before you call your learning plan done, run the four-question check at the bottom of `templates/learning-plan-template.md` (the **Non-Generic Completion Rules** section).
 
-1. Does every action name a concrete workflow — not "use AI more"?
-2. Does every milestone name a measurable signal (cycle time, error rate, volume, quality score)?
-3. Is there a named accountability owner for review at each stage?
-4. Does every action map to a real responsibility or success metric from your JD?
+The short version: every milestone should name a concrete workflow, a measurable signal, an accountability owner, and a JD responsibility. If any of those are missing, revise until they're there.
 
-If any answer is no, revise until it is.
+That's the only version of the check. Don't fill it in on the assessment — it lives on the learning plan.
 
 ---
 
