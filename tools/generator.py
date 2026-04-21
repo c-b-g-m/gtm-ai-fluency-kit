@@ -271,10 +271,11 @@ def main() -> None:
     )
     copy_reference_plan(output_dir, args.function, project_root)
 
-    print(f"Generated files in: {output_dir}")
-    print("- assessment-starter.md")
-    print("- learning-plan-starter.md")
-    print("- reference-learning-plan.md")
+    print(f"\nGenerated files in: {output_dir}")
+    print("  assessment-starter.md      <- fill this in first (scores + priority gaps)")
+    print("  learning-plan-starter.md   <- fill this in second (30/60/90 milestones)")
+    print("  reference-learning-plan.md <- read-only reference, do not fill in")
+    print("\nNext: open assessment-starter.md and complete your scores. See BUILD.md for full instructions.")
 
 
 if __name__ == "__main__":

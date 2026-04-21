@@ -21,10 +21,22 @@ Contributions that improve the framework's accuracy, accessibility, or usefulnes
 1. Fork the repo
 2. Create a branch (`git checkout -b improve/rubric-delegation-criteria`)
 3. Make your change, test it, and describe it clearly
-4. Open a pull request with:
-   - What changed
-   - Why it's an improvement
-   - How you tested it (ran the generator, reviewed outputs, etc.)
+4. Open a pull request using this format:
+
+```
+## What changed
+[One sentence describing the specific file(s) and content affected]
+
+## Why it's an improvement
+[What problem this fixes or what gap it closes — reference the file and section if possible]
+
+## How you tested it
+[Examples: "Ran the generator with the updated validation logic and confirmed output"; 
+"Completed the manual path against the updated rubric and compared to the worked example";
+"Read the updated section against the original and confirmed the steps are unambiguous"]
+```
+
+Pull requests without this structure will be asked to revise before review.
 
 ## Opening Issues
 
