@@ -1,6 +1,8 @@
 # AI Fluency Framework Overview
 
-Share this as a pre-read before a team session, or read it before starting your assessment. Takes about 5 minutes.
+**Running a team session?** Send this as a pre-read 48 hours before. It's the conceptual foundation for the session discussion.
+
+**Going through the kit solo?** Read this before Step 3 of `QUICKSTART-MANUAL.md` — it explains what each dimension actually measures and why the evidence rule matters. Scoring without it tends to produce inflated results. Takes about 5 minutes.
 
 ---
 

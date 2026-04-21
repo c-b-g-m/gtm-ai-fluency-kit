@@ -124,6 +124,45 @@ The Diligence dimension of the assessment specifically measures whether these ar
 
 ---
 
+## After Day 30
+
+### "I completed the plan but nothing really changed"
+
+This is the most common outcome when the plan was specific on paper but too abstract to execute. Check which of these applies:
+
+- **The workflow you named wasn't actually recurring.** If you picked a workflow you do quarterly instead of weekly, there weren't enough repetitions to build a habit. Pick a different workflow and restart the 30-day cycle.
+- **The milestone was an outcome, not an action.** "Improve my prompt quality" is an outcome. "Write one new reusable prompt template by Friday and use it twice next week" is an action. If your plan had the former, rewrite it as the latter.
+- **There was no accountability checkpoint.** Did anyone ask you about it at day 14? If not, the plan had no external pressure. Run the facilitator session with at least one other person, or share your plan with a colleague and ask them to check in at two weeks.
+
+---
+
+### "My manager didn't see value in this and I deprioritized it"
+
+That's real. Frameworks without organizational buy-in stall. Two options:
+
+1. **Do it for yourself first, quietly.** You don't need manager endorsement to run your own workflow differently. Pick your lowest-friction gap — usually Description — and change one thing in the next week. Then you have a before/after story.
+2. **Run the facilitator session.** One team session is often more persuasive than a solo pitch. If your team leaves with shared language and one concrete commitment each, the framework earns its own legitimacy.
+
+---
+
+### "I finished the 30-day phase but didn't continue to 60 or 90"
+
+Common. The 30-day phase is high-motivation; 60 and 90 require institutional memory. 
+
+What works: at the end of your 30-day check-in, schedule the 60-day check-in before you close the document. If you wait until day 45 to schedule day 60, you won't. Same for 90. Block the time while the work is fresh.
+
+---
+
+### "I want to measure whether I actually improved"
+
+Your evidence tracker in the learning plan is the mechanism — but it only works if you used it. Go back and answer honestly: what artifact do you have from this 30-day period that you didn't have at day zero?
+
+If you have something — a prompt library, a decision log entry, a workflow doc — re-score yourself on that dimension. Compare to your baseline. Movement is real even if it's one level on one dimension.
+
+If you have nothing: that's a signal, not a failure. It means the plan didn't produce the behavior that would create the artifact. Start smaller — one reusable prompt, documented, used at least three times. That's a 2 in Description.
+
+---
+
 ## Getting Unblocked
 
 **If you're stuck on a step:** Go back to `START-HERE.md` and re-read the workflow section. Confirm which document you're filling in and which you're using as reference.
