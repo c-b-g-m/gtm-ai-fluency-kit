@@ -105,11 +105,23 @@ Do not send the full rubric or assessment template as pre-work. That's too much.
 - "Did you complete the assessment? What were your two lowest scores?"
 - "What's one thing you've done in the last two weeks toward your 30-day plan?"
 - "What's blocking you?" (Common answers: "I haven't found time," "I wasn't sure how to start," "My plan felt too generic." All addressable.)
-- If most people haven't done the assessment: re-send `QUICKSTART-MANUAL.md` with a specific ask: "Complete steps 1–4 before Friday."
+- If most people haven't done the assessment: re-send `QUICKSTART-MANUAL.md` with a specific ask: "Complete Steps 1–5 before Friday and bring your completed learning plan to the 30-day check-in."
+
+**30-day check-in (20 minutes):**
+- "What's one artifact you can show — a prompt you saved, a decision log, a workflow you documented?"
+- "Did your 30-day goal produce the result you expected? Why or why not?"
+- "What's your 60-day focus based on what you learned?" Have each person state a specific next milestone, not a vague intention.
+- This is the most important check-in. If someone arrives with no artifact, that's the conversation — not a failure, but a signal that the plan was too abstract. Help them make it concrete before day 31.
+
+**60- and 90-day follow-up:**
+- These don't need a dedicated session. A Slack thread or async check-in works: "Show us one thing you built or changed in the last 30 days."
+- By day 60, people should be moving from documenting workflows to running them consistently. By day 90, the signal is whether AI use has changed any measurable output in their role (cycle time, error rate, volume, quality score).
+- If your team is using 1:1s or sprint reviews, these milestones can fold into existing rhythms — the framework doesn't require its own dedicated meetings after day 30.
 
 **What not to do:**
 - Don't collect everyone's scores and make a team-level dashboard. That shifts the frame from personal development to performance measurement, which kills honesty.
-- Don't skip the check-in. The 30-day plan only works if someone asks about it at 14 days.
+- Don't skip the 2-week check-in. The 30-day plan only works if someone asks about it at 14 days.
+- Don't let the process end at 30 days. The 30/60/90 structure only delivers value if all three phases close.
 
 ---
 

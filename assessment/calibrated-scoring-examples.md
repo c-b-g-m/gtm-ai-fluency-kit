@@ -2,6 +2,16 @@
 
 Use these to calibrate your self-assessment before finalizing scores. Each example shows what each maturity level looks like across the 4D model for three function tracks.
 
+**Find your track using the title mapping below, then go to that section.**
+
+| Your title likely includes... | Use this track |
+|-------------------------------|---------------|
+| Content, campaigns, demand gen, brand, comms, marketing ops, growth | **Marketing — Content and Campaign Role** |
+| Account executive, AE, SDR, BDR, sales ops, RevOps, revenue operations, sales enablement | **Sales and RevOps — Account Executive or RevOps Analyst Role** |
+| Support, customer success, CSM, onboarding, implementation, technical account manager | **Support and Customer Success — Support Lead or CSM Role** |
+
+If your role spans two tracks (e.g., you run RevOps but also own demand gen), pick the one that represents the majority of your recurring AI work.
+
 ---
 
 ## Marketing — Content and Campaign Role

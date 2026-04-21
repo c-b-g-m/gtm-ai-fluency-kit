@@ -51,17 +51,22 @@ Evidence prompt:
 
 ## Scoring Summary
 
-- Delegation (1-3):
-- Description (1-3):
-- Discernment (1-3):
-- Diligence (1-3):
+Score each dimension 1–3 using the scale below. Fill in your score, then note the one artifact that supports it.
 
-## Calibration Anchors (Use Before Final Scoring)
+| Score | What it means | Evidence requirement |
+|-------|--------------|----------------------|
+| **1 — Emerging** | Reactive, one-off use. No repeatable process. Limited quality controls. | No artifact required, but be honest: if you're here, say so. |
+| **2 — Developing** | Some patterns forming. Inconsistent criteria. Diligence applied sometimes but not by default. | Can point to at least one example, even if not systematic. |
+| **3 — Capable** | Repeatable workflows. Explicit quality criteria. Accountable habits applied consistently. | Must point to a real artifact you can open right now — a saved prompt, a decision log, a checklist in active use. |
 
-- **1 (Emerging)**: mostly one-off usage, weak evidence, limited quality controls.
-- **2 (Developing)**: some repeatability, partial criteria, inconsistent diligence.
-- **3 (Capable)**: repeatable workflows, explicit quality criteria, accountable review habits.
-If evidence is weak or missing, lower score by one level.
+**If you can't point to an artifact, lower your score by one level.**
+
+- Delegation (1–3): &nbsp;&nbsp;&nbsp;&nbsp; Supporting artifact:
+- Description (1–3): &nbsp;&nbsp;&nbsp;&nbsp; Supporting artifact:
+- Discernment (1–3): &nbsp;&nbsp;&nbsp;&nbsp; Supporting artifact:
+- Diligence (1–3): &nbsp;&nbsp;&nbsp;&nbsp; Supporting artifact:
+
+For the full dimension-specific criteria and watch-outs, see `assessment/rubric.md` and `HOW-TO-SCORE.md`.
 
 ## Confidence Check Per Domain
 

@@ -10,9 +10,11 @@ Use this path if you don't want to run Python scripts. Everything here works wit
 
 Choose the one that matches your role:
 
-- **Marketing** — content, campaigns, demand gen, brand, comms
-- **Sales and RevOps** — account executives, SDRs, sales ops, revenue ops
-- **Support and Customer Success** — support leads, CSMs, onboarding
+- **Marketing** — content, campaigns, demand gen, brand, comms, marketing ops, growth
+- **Sales and RevOps** — account executives, SDRs, BDRs, sales ops, revenue ops, sales enablement
+- **Support and Customer Success** — support leads, CSMs, onboarding, implementation, technical account managers
+
+**Not sure which track fits your title?** See the title mapping table at the top of `assessment/calibrated-scoring-examples.md`. If your role spans two tracks, pick the one that covers the majority of your recurring AI work.
 
 ---
 
@@ -34,6 +36,8 @@ Be specific. Generic inputs produce generic plans.
 ---
 
 ## Step 3 — Score yourself
+
+**Before you score:** If you haven't read `FRAMEWORK-OVERVIEW.md`, do it now — it takes 5 minutes and explains what each dimension actually measures and why the evidence rule matters. Scoring without it tends to produce inflated results.
 
 Open `assessment/rubric.md`. Read the criteria for each of the four dimensions:
 - **Delegation** — how you decide what to give to AI and what to keep human
@@ -71,7 +75,14 @@ Fill in:
 - The **30/60/90 Plan** section — one concrete goal per phase, tied to your primary workflow and your JD success metrics
 - The **Evidence Tracker** — how you'll capture proof that you're improving
 
-Use `learning-plans/[your-function]-30-60-90.md` as a reference for what realistic milestones look like at each phase. Use `examples/[your-function]-example.md` to see a worked version.
+**How the supporting files work (don't fill these in — they're references):**
+
+| File | What it is | How to use it |
+|------|-----------|---------------|
+| `learning-plans/[function]-30-60-90.md` | Reference milestones — realistic goals at each phase for your function track | Read it while filling in your plan to calibrate what "concrete" looks like |
+| `examples/[function]-example.md` | Fully worked plan for a specific role — filled in, not blank | Read the whole thing to see how the pieces fit together; it shows the level of specificity expected |
+
+The document you are filling in is `templates/learning-plan-template.md`. The others are read-only reference material.
 
 ---
 
