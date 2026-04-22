@@ -15,6 +15,49 @@ It's free, role-specific, and takes about 30–45 minutes for a first pass. Run 
 
 ---
 
+## Start Here
+
+You'll produce two documents. Complete them in order — the first feeds the second:
+
+1. **Assessment** (`templates/assessment-template.md`) — Score yourself across 4 dimensions. Identify your two lowest scores. This is your diagnosis. About 20–30 minutes.
+2. **Learning Plan** (`templates/learning-plan-template.md`) — Take your two gap areas from the assessment and turn them into a concrete 30/60/90 plan. This is your prescription. About 15 minutes.
+
+**Pick your path:**
+
+**No terminal required** — recommended for most people, including those new to AI:
+Copy the templates into any editor (Google Docs, Notion, plain text), score yourself, fill in your plan. About 30–45 minutes total.
+→ `QUICKSTART-MANUAL.md`
+
+**Faster with a script** — if you're comfortable running Python:
+One command generates pre-filled starter files based on your role and job description, then you complete them manually. About 35–50 minutes total.
+→ `BUILD.md`
+
+**Leading a team session?**
+Read `FRAMEWORK-OVERVIEW.md` first — a 5-minute explainer you can send as pre-read. Then use `FACILITATOR-LITE.md` to run a 30-minute session with talking points for each segment.
+
+**Not sure how to score yourself?** → Read `HOW-TO-SCORE.md` before filling in anything.
+
+**Using an AI assistant to help you work through this?** Share `START-HERE.md` with your assistant and ask it to walk you through the no-terminal path step by step.
+
+---
+
+## Repository Map
+
+| File | What it is |
+|------|------------|
+| `QUICKSTART-MANUAL.md` | Step-by-step guide for the no-terminal path — start here |
+| `BUILD.md` | Setup guide for the Python script path |
+| `START-HERE.md` | Full workflow walkthrough — best shared with an AI assistant |
+| `HOW-TO-SCORE.md` | How the evidence rule works and common scoring mistakes |
+| `FRAMEWORK-OVERVIEW.md` | 5-minute explainer on the 4D framework — good pre-read for team sessions |
+| `FACILITATOR-LITE.md` | Guide for running a 30-minute team session |
+| `TROUBLESHOOTING.md` | Common issues and fixes |
+| `templates/` | Assessment and learning plan templates — copy these |
+| `assessment/` | Rubric and calibrated scoring examples by function track |
+| `examples/` | Worked examples for all three function tracks |
+
+---
+
 ## Who This Is For
 
 **Individual contributors** who want to know specifically what "better" looks like for their role — not generic AI tips.
@@ -44,22 +87,6 @@ Function tracks: Marketing · Sales and RevOps · Support and Customer Success
 - Function-specific 30/60/90 learning-plan templates tied to your actual job responsibilities
 - Worked examples for all three function tracks
 - A facilitator guide for running a 30-minute team session
-
----
-
-## Start Here
-
-**No terminal required** (recommended for most GTM professionals):
-Copy the templates, score yourself against the rubric, fill in your plan. About 20–30 minutes.
-→ `QUICKSTART-MANUAL.md`
-
-**Faster with a script** (if you're comfortable with Python):
-Run one command and get pre-filled starter files based on your role and JD. About 5 minutes of setup.
-→ `BUILD.md`
-
-**Leading a team session?**
-Read `FRAMEWORK-OVERVIEW.md` first — it's a 5-minute explainer you can send as a pre-read. Then use `FACILITATOR-LITE.md` to run a 30-minute session with talking points for each segment.
-→ `FACILITATOR-LITE.md`
 
 ---
 
